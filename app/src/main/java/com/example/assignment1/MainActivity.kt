@@ -93,7 +93,7 @@ fun AssignmentScreen(context: Context) {
                 colors = ButtonDefaults.buttonColors(containerColor = Color.Blue),
                 modifier = Modifier.width(120.dp)
             ) {
-                Text("Save", fontSize = 18.sp)
+                Text("Store", fontSize = 18.sp)
             }
 
         }
